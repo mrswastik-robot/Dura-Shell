@@ -1,4 +1,4 @@
-![Dash logo](![Alt text](image.png))                                                 
+![Alt text](https://github.com/mrswastik-robot/Dura-Shell/assets/107865087/5f16f7e6-c207-4aa9-bf9d-b7d0fe7bde33)                                                 
 
 ---
 
