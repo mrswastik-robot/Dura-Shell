@@ -14,6 +14,10 @@ Type help for help.
 ```js 
 git clone https://github.com/mrswastik-robot/Dura-Shell
 ```
+- make sure to have the c readline library installed
+```js
+  $ sudo apt-get install libreadline6 libreadline6-dev
+```
 
 - Run gcc complier on the terminal
 ```js
