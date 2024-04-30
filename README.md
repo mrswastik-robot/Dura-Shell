@@ -21,7 +21,7 @@ git clone https://github.com/mrswastik-robot/Dura-Shell
 
 - Run gcc complier on the terminal
 ```js
-gcc dura-shell.c
+gcc dura-shell.c -lreadline
 ```
 - Created out file can be run in terminal
 ```js
