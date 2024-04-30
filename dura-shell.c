@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <readline/readline.h>
 #include <readline/history.h>
+#include <sys/wait.h>
 
 char **argument_list;
 char *builtin_functions_name_list[] = {"help", "-", "cd", "about"};
